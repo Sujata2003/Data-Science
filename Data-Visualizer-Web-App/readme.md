@@ -1,4 +1,4 @@
-# Data Visualizer - Web App
+# 📊Data Visualizer - Web App
 
 The Data Visualizer Web App is a user-friendly tool for visualizing data from CSV files. It allows users to upload CSV files, select columns for visualization, and generate various types of plots to analyze the data.
 
