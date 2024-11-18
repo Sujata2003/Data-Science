@@ -1,0 +1,7 @@
+streamlit
+numpy
+Pillow
+pandas
+geopy
+tensorflow_hub
+tensorflow==2.12.0
